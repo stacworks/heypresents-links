@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include meta %}
+  </head>
+  <body>
+    <div class="o-container">
+      <a href="/">
+        <img src="/assets/logo.png" width="80" class="u-margin-bottom">
+      </a>
+
+      <ul class="o-links">
+        {% for link in links reversed %}
+          <li class="o-links__item u-margin-bottom">
+            <a href="{{ link.url }}" target="_blank"><h2>{{ link.title }}</h2></a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    {% include footer %}
+  </body>
+</html>
