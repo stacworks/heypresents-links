@@ -1,22 +1,14 @@
 [
   {
-    "url": "https://stac.works",
-    "title": "This is the title for link #1"
+    "url": "https://stac.works/articles/how-to-run-an-online-conference",
+    "title": "How to run an online conference"
   },
   {
-    "url": "https://stac.works",
-    "title": "This is the title for link #2"
+    "url": "https://stac.works/articles/using-the-web-for-social-good",
+    "title": "Using the web for social good"
   },
   {
-    "url": "https://stac.works",
-    "title": "This is the title for link #3"
-  },
-  {
-    "url": "https://stac.works",
-    "title": "This is the title for link #4"
-  },
-  {
-    "url": "https://stac.works",
-    "title": "This is the title for link #5"
+    "url": "https://www.youtube.com/watch?v=1FEDMf9v_8k",
+    "title": "Why learning doesn't stop when you graduate"
   }
 ]
