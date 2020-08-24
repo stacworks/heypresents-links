@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4e74a407-39cd-4a98-aba5-50a55f5913e5/deploy-status)](https://app.netlify.com/sites/joshnesbitt-cooking/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/67bdabcc-5bd5-46cd-80c7-a3838817bd65/deploy-status)](https://app.netlify.com/sites/hey-links/deploys)
 
 # Hey! Links
 
