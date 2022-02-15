@@ -1,7 +1,7 @@
 {
-  "name": "hey-links",
+  "name": "heypresents-links",
   "version": "1.0.0",
-  "description": "A simple site to publish social links for Hey!",
+  "description": "A simple site to publish social links for Hey! Presents.",
   "scripts": {
     "build": "eleventy && npm run sass",
     "serve": "concurrently 'eleventy --serve' 'npm run sass:watch'",
