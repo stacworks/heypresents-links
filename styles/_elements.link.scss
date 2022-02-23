@@ -1,9 +1,8 @@
 a {
-  text-decoration: none;
-  color: $color-primary;
+  text-decoration: underline;
 
   &:hover {
     cursor: pointer;
-    text-decoration: underline;
+    text-decoration: none;
   }
 }

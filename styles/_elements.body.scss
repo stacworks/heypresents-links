@@ -1,6 +1,12 @@
+@font-face {
+  font-family: 'MaisonLight';
+  src: url('/assets/fonts/MaisonLight.woff2') format('woff2'),
+       url('/assets/fonts/MaisonLight.woff') format('woff');
+}
+
 body {
-  font-family: "Lato", sans-serif;
-  font-size: 1.4em;
+  font-family: "MaisonLight", sans-serif;
+  font-size: 1.2em;
   background: #ffffff;
   color: $color-text;
 }

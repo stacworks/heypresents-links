@@ -1,13 +1,5 @@
 .o-links {
   list-style: none;
-
-  li a {
-    border-bottom: 1px #eee solid;
-  }
-
-  li:last-child a {
-    border: none;
-  }
 }
 
 .o-links__item {
@@ -15,7 +7,9 @@
     display: block;
     padding-top: $spacing-unit;
     padding-bottom: $spacing-unit;
-    font-weight: 300;
     font-size: 1.4em;
+    text-underline-offset: 4px;
+    text-decoration-thickness: 2px;
+    color: $color-text;
   }
 }
